@@ -1,0 +1,4 @@
+npx create-react-app my-app --template redux
+npm i react-bootstrap bootstrap
+npm i axios
+do the cors policy inside startup

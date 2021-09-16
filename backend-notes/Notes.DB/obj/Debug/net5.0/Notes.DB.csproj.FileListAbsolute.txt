@@ -1,0 +1,14 @@
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\bin\Debug\net5.0\Notes.DB.deps.json
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\bin\Debug\net5.0\Notes.DB.runtimeconfig.json
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\bin\Debug\net5.0\Notes.DB.runtimeconfig.dev.json
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\bin\Debug\net5.0\Notes.DB.dll
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\bin\Debug\net5.0\ref\Notes.DB.dll
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\bin\Debug\net5.0\Notes.DB.pdb
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\Notes.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\Notes.DB.AssemblyInfoInputs.cache
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\Notes.DB.AssemblyInfo.cs
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\Notes.DB.csproj.CoreCompileInputs.cache
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\Notes.DB.dll
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\ref\Notes.DB.dll
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\Notes.DB.pdb
+C:\DATA\WorkingOuts\React-Core\NotesWithBootstrap\backend-notes\Notes.DB\obj\Debug\net5.0\Notes.DB.genruntimeconfig.cache
